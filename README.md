@@ -1,7 +1,6 @@
 ## README
 
-After making changes in app.js, run this command to make a new build
-    npm run build
+Run ```$ npm run build``` to rebuild project.
 
 Originally from:
     https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
